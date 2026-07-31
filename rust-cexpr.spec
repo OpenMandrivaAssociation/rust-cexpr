@@ -6,8 +6,8 @@
 %global crate cexpr
 
 Name:           rust-%{crate}
-Version:        0.3.6
-Release:        2%{?dist}
+Version:        0.6.0
+Release:        1%{?dist}
 Summary:        C expression parser and evaluator
 
 # Upstream license specification: Apache-2.0/MIT
